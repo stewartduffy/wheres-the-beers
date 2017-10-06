@@ -96,7 +96,7 @@ class Map extends React.Component {
 
     return (
       <GoogleMapsWrapper
-        googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
+        googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyCWDbDPeOT1r8sz5dF6Xmh_ldEw9rqER4I"
         defaultZoom={5}
         defaultCenter={{
           lat: -40.900557,
